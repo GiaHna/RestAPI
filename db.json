@@ -33,7 +33,10 @@
 			"first name":"Han",
 			"last name":"Pham"
 	},
-	
+			"username":"PahmHan",
+			"password":"123456",
+			"full name":"Han Pham"
+		
 		
 	
 }
